@@ -1,0 +1,8 @@
+
+Make a linked list
+insert and delete from linked list
+print a linked list
+Reverse a linked list
+
+
+
